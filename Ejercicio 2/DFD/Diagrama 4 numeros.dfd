@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Ingrese su primer numero'
+5
+1
+2
+N1
+4
+1
+27
+'Ingrese su segundo número'
+5
+1
+2
+N2
+4
+1
+26
+'Ingrese su tercer numero'
+5
+1
+2
+N3
+4
+1
+26
+'Ingrese su cuarto numero'
+5
+1
+2
+N4
+6
+2
+3
+sum
+5
+N1+N2
+3
+mul
+5
+N3*N4
+4
+1
+48
+'La suma de los 2 primeros numeros es de: ', sum
+4
+1
+58
+'La multiplicación de los 2 ultimos factores es de: ', mul
+1

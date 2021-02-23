@@ -1,0 +1,13 @@
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\bin\Debug\netcoreapp3.1\Ejercicio5Examen.exe
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\bin\Debug\netcoreapp3.1\Ejercicio5Examen.deps.json
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\bin\Debug\netcoreapp3.1\Ejercicio5Examen.runtimeconfig.json
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\bin\Debug\netcoreapp3.1\Ejercicio5Examen.runtimeconfig.dev.json
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\bin\Debug\netcoreapp3.1\Ejercicio5Examen.dll
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\bin\Debug\netcoreapp3.1\Ejercicio5Examen.pdb
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\obj\Debug\netcoreapp3.1\Ejercicio5Examen.csprojAssemblyReference.cache
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\obj\Debug\netcoreapp3.1\Ejercicio5Examen.AssemblyInfoInputs.cache
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\obj\Debug\netcoreapp3.1\Ejercicio5Examen.AssemblyInfo.cs
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\obj\Debug\netcoreapp3.1\Ejercicio5Examen.csproj.CoreCompileInputs.cache
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\obj\Debug\netcoreapp3.1\Ejercicio5Examen.dll
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\obj\Debug\netcoreapp3.1\Ejercicio5Examen.pdb
+F:\programacion\Primer Desafío Practico\Ejercicio5\Ejercicio5Examen\Ejercicio5Examen\obj\Debug\netcoreapp3.1\Ejercicio5Examen.genruntimeconfig.cache

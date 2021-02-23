@@ -1,0 +1,13 @@
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\bin\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.exe
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\bin\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.deps.json
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\bin\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.runtimeconfig.json
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\bin\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.runtimeconfig.dev.json
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\bin\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.dll
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\bin\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.pdb
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\obj\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.csprojAssemblyReference.cache
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\obj\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.AssemblyInfoInputs.cache
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\obj\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.AssemblyInfo.cs
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\obj\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.csproj.CoreCompileInputs.cache
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\obj\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.dll
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\obj\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.pdb
+F:\programacion\Primer Desafío Practico\Ejercicio 4\Ejercicio4ElMayorde 3Numeros\Ejercicio4ElMayorde 3Numeros\obj\Debug\netcoreapp3.1\Ejercicio4ElMayorde 3Numeros.genruntimeconfig.cache
